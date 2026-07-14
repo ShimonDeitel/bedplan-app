@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BedplanTests
-      - path: Bedplan.storekit
     dependencies:
       - target: Bedplan
     settings:
